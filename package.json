@@ -1,0 +1,17 @@
+{
+  "name": "draganddrop_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "DragAndDrop_TSProject"
+  },
+  "author": "Fellps",
+  "license": "ISC",
+  "lite-server": ""
+}
